@@ -1,23 +1,57 @@
 .delightful-bites {
     color: white;
-    background-color: #ff8da1;
+    background-color: #ba829e;
+    text-align: center;
+    font-size: 20px;
     
 }
 
 .cupcake {
     border-radius: 10%;
+    height: 320px;
+    width: auto;
+    margin-right: 20px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
 }
 
 .heading{
-    Background-color:#ff8da1;
     color: white;
+    text-align: center;
+    font-size: 55px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.caption {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight:300;
-    font-size: 24px;
-}
+ .text {
+    line-height: 1.8;
+    
+ }
+ .color {
+    color:#ba829e;
+    font-size: 20px;
+ }
+  ul li {
+    text-align: center;
+    display: block;
+    margin: 10px;
+  }
 
 .recipes {
-    color:#ff8da1;
+    color:#ba829e;
+    text-align: center;
+
 }
+
+body {
+    background-color: #ba829e;
+}
+
+.main-area {
+    background-color:white;
+    padding: 20px;
+    width: 658px;
+    
+}
+
